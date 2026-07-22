@@ -12,5 +12,5 @@ I'm a Brazilian **Software Engineer** passionate about building reliable softwar
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/claudio-bacelete/)
