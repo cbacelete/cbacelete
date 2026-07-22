@@ -1,4 +1,4 @@
-# Hi there, I'm Cláudio Bacelete 👋
+# Hi there, I'm Claudio Bacelete 👋
 
 I'm a Brazilian **Fullstack Developer** passionate about software craftsmanship and modern web applications. Currently deepening my knowledge in **Software Architecture** to build scalable and robust systems.
 
