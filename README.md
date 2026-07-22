@@ -1,15 +1,16 @@
 # Hi there, I'm Claudio Bacelete 👋
 
-I'm a Brazilian **Fullstack Developer** passionate about software craftsmanship and modern web applications. Currently deepening my knowledge in **Software Architecture** to build scalable and robust systems.
+I'm a Brazilian **Software Engineer** passionate about building reliable software and modern web applications.
 
 ---
 
 ### 💻 About Me
-* 🎓 Graduated in **Computer Engineering** at PUC Minas.
-* 🚀 Working as a developer since 2020, focusing on continuous growth and code quality.
-* 🎯 **Tech Stack & Interests:** Java, Spring Boot, Angular, TypeScript, Flutter and Distributed Systems.
+- 🎓 Bachelor's degree in **Computer Engineering** from PUC Minas.
+- 📚 Currently pursuing a postgraduate degree in **Distributed Software Architecture**.
+- 💼 Software Engineer since 2020.
+- 🎯 Areas of Interest: Java, Spring Boot, Angular, Azure, Flutter, and Distributed Systems.
 
 ---
 
-### 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/claudio-bacelete/)
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/claudio-bacelete/)
