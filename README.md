@@ -11,5 +11,5 @@ I'm a Brazilian **Fullstack Developer** passionate about software craftsmanship 
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/claudio-bacelete/)
