@@ -7,7 +7,7 @@ I'm a Brazilian **Fullstack Developer** passionate about software craftsmanship 
 ### 💻 About Me
 * 🎓 Graduated in **Computer Engineering** at PUC Minas.
 * 🚀 Working as a developer since 2020, focusing on continuous growth and code quality.
-* 🎯 **Tech Stack & Interests:** Java, Spring Boot, Angular, TypeScript, Flutter, and Distributed Systems.
+* 🎯 **Tech Stack & Interests:** Java, Spring Boot, Angular, TypeScript, Flutter and Distributed Systems.
 
 ---
 
